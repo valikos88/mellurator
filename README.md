@@ -1,3 +1,5 @@
+<img width="832" height="570" alt="image" src="https://github.com/user-attachments/assets/fba4b6bb-5671-4e5a-8e00-1fadc1c2079b" />
+
 Сатураторость с мягкой бас-бустостью. VST3-плагиность для FL Studioсь и любого хостовости. Лицость вместо ручкости Drive-ости.
 
 Сборочност (Windows-ость, Visual Studio 2022-ость или Ninja-ость)
